@@ -27,12 +27,12 @@ make sure that make is installed **sudo apt-get install make**
 1. ) **If the packages are not installed then the program won&#39;t compile**
 2. ) **Upon extracting the zipped file open the folder 2018391\_CAOS\_Shell it would be containing**
 
-1. **basicFunctions.c**
-2. **basicFunctions.h**
-3. **OuterCommandHandler.c**
-4. **OuterCommandHandler.h**
-5. **shell.c**
-6. **Makefile**
+a. **basicFunctions.c**
+b. **basicFunctions.h**
+c. **OuterCommandHandler.c**
+d. **OuterCommandHandler.h**
+e. **shell.c**
+f. **Makefile**
 
 1. ) **Open terminal here and execute command &quot;make&quot;**
 2. ) **Upon executing command if you have installed all packages correctly it would have created a file &quot;Shell&quot; without extension file**
