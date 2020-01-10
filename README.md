@@ -12,15 +12,15 @@
 
 #include<stdio.h>
 
-#include\&lt;string.h\&gt;
+#include<string.h>
 
-#include\&lt;stdlib.h\&gt;
+#include<stdlib.h>
 
-#include\&lt;unistd.h\&gt;
+#include<unistd.h>
 
-#include\&lt;sys/types.h\&gt;
+#include<sys/types.h>
 
-#include\&lt;sys/wait.h\&gt;
+#include<sys/wait.h>
 
 make sure that make is installed **sudo apt-get install make**
 
