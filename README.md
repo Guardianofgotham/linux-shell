@@ -84,13 +84,13 @@ f. **Makefile**
 7. ) **pwd**
 8. ) **cd /bin**
 9. ) **exit**
-10. ) ** ls**
-11. ) ** ls -l**
-12. ) ** ls -a**
-13. ) ** ls /**
-14. ) ** clear**
-15. ) ** cd /**
-16. ) ** cat /etc/apt/sources.list**
+10. ) **ls**
+11. ) **ls -l**
+12. ) **ls -a**
+13. ) **ls /**
+14. ) **clear**
+15. ) **cd /**
+16. ) **cat /etc/apt/sources.list**
 17. ) **cat --help**
 18. ) **cat --version**
 19. ) **date --date=yesterday**
@@ -100,13 +100,13 @@ f. **Makefile**
 23. ) **date --date=1 year**
 24. ) **date --help**
 25. ) **date --version**
-26. ) ** mkdir 1**
-27. ) ** mkdir 1/2**
-28. ) ** mkdir 1/2/3**
-29. )** rm 1        (Error)**
-30. )** rm -r 1        (Will delete directories recursively)**
-31. ) ** rm {file name}**
-32. ) ** rm -i {filename}**
+26. ) **mkdir 1**
+27. ) **mkdir 1/2**
+28. ) **mkdir 1/2/3**
+29. )**rm 1        (Error)**
+30. )**rm -r 1        (Will delete directories recursively)**
+31. ) **rm {file name}**
+32. ) **rm -i {filename}**
 
 **Protection &amp; defenses**
 
