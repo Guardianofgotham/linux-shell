@@ -28,10 +28,15 @@ make sure that make is installed **sudo apt-get install make**
 2. ) **Upon extracting the zipped file open the folder 2018391\_CAOS\_Shell it would be containing**
 
 a. **basicFunctions.c**
+
 b. **basicFunctions.h**
+
 c. **OuterCommandHandler.c**
+
 d. **OuterCommandHandler.h**
+
 e. **shell.c**
+
 f. **Makefile**
 
 1. ) **Open terminal here and execute command &quot;make&quot;**
