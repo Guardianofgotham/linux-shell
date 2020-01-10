@@ -10,7 +10,7 @@
 
 1. ) **See the headers included in file. Make sure that you have installed all the required modules/packages before including them else it would give error that module not found below are the all headers that included in file**
 
-#include\&lt;stdio.h\&gt;
+#include<stdio.h>
 
 #include\&lt;string.h\&gt;
 
